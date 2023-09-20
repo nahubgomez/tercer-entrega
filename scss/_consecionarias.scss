@@ -1,0 +1,35 @@
+/*CONSECIONARIAS */
+
+.titulo2 {
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    color: $color-rosado;
+}
+
+/*carousel*/
+
+.carousel {
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+   
+}
+
+.banner {
+    text-align: center;
+    font-weight: bold;
+    color: $color-rojo;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.button {
+    display: inline-block;
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-top: 20px;
+}

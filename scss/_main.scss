@@ -1,0 +1,40 @@
+/* main */
+
+main {
+    margin: 20px;
+    padding: 30px;
+}
+
+.descripcionP {
+    width: 100%;
+    background-color: $color-rosado;
+    color: white;
+    border-radius: 6px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.tituloH3 {
+    text-align: center;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 30px;
+}
+
+.tituloPrincipal {
+    text-align: center;
+    margin: 20px;
+    padding: auto;
+    text-decoration: underline;
+}
+
+
+.tituloCamiones {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: $color-rojo;
+}

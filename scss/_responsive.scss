@@ -1,0 +1,27 @@
+/*MEDIA QUERIES*/
+/*VISTA TABLET*/
+/* PRODUCTOS */
+@media (max-width:1023px) {
+    .CamionesTipos {
+        height: auto;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(169, 172, 172);
+        border-radius: 10px;
+
+    }
+}
+
+/* vista movil */
+
+@media (max-width:768px) {
+    .buttonInicio {
+        display: none;
+    }
+}
